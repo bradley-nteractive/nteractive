@@ -5,3 +5,9 @@ p {
 .titleBackgroundColor-background {
 background-color:red!important;
 }
+
+#side-bar #notificationBell {
+ 
+    border-bottom: 5px solid red!important;
+ 
+}
