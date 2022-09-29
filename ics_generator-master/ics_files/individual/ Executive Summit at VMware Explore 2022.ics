@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Executive Summit at VMware Explore 2022
+DTSTART;VALUE=DATE-TIME:20221107T090000Z
+DTEND;VALUE=DATE-TIME:20221108T170000Z
+DESCRIPTION:Thank you for registering to attend the VMware Executive Summi
+ t.\nMonday 7 November it will take place at the Esferic Barcelona\, Plaça
+  Dante. Montjuïc - Jardins Joan Brossa\, 08038 Barcelona\nTuesday 8 Novem
+ ber it will take place at the Fira Barcelona Gran Via\, Carrer del Foc 10\
+ , 08038 Barcelona\n \nTo view the latest up-to-date information about the 
+ Executive Summit\, please go to https://www.vmware.com/explore/executive-s
+ ummit/eu.html.\n \nWe look forward to welcoming you in Barcelona\, 7-8 Nov
+ ember.\n\nYour VMware Executive Summit Team\nVMwareExecutiveEvents@Nteract
+ ive.com
+LOCATION:Barcelona\, Spain
+ORGANIZER:VMwareExecutiveEvents@Nteractive.com
+X-ALT-DESC;FMTTYPE=TEXT/HTML:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//
+ EN"><HTML><BODY><p>Thank you for registering to attend the VMware Executiv
+ e Summit.\n <br><br>\nMonday 7 November it will take place at the Esferic 
+ Barcelona\, Plaça Dante. Montjuïc - Jardins Joan Brossa\, 08038 Barcelon
+ a<br>\nTuesday 8 November it will take place at the Fira Barcelona Gran Vi
+ a\, Carrer del Foc 10\, 08038 Barcelona\n <br><br>\nTo view the latest up-
+ to-date information about the Executive Summit\, please <a href="https://w
+ ww.vmware.com/explore/executive-summit/eu.html">click here</a>.\n <br><br>
+ \nWe look forward to welcoming you in Barcelona\, 7-8 November.\n <br><br>
+ \nYour VMware Executive Summit Team<br>\n<a href="mailto:VMwareExecutiveEv
+ ents@Nteractive.com">VMwareExecutiveEvents@Nteractive.com</a></p></BODY></
+ HTML>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:HPE Tech Next September 2022
+DTSTART;VALUE=DATE-TIME:20220928T130000Z
+DTEND;VALUE=DATE-TIME:20220928T160000Z
+DESCRIPTION:Thank you for registering for HPE Tech Next taking place on Se
+ ptember 28\, 2022.\n\nWe encourage you to look out for further emails from
+  “HPE Tech Next”\, containing additional information on the agenda\, w
+ hat to expect\, and your unique Webinar join link. \n\nBest Regards\nHPE T
+ ech Next Team\n
+LOCATION:Zoom Webinar
+ORGANIZER:enterprise.technology_summit@hpe.com
+X-ALT-DESC;FMTTYPE=TEXT/HTML:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//
+ EN"><HTML><BODY><p>Thank you for registering for HPE Tech Next taking plac
+ e on September 28\, 2022.\n<br><br>\nWe encourage you to look out for furt
+ her emails from “HPE Tech Next”\, containing additional information on
+  the agenda\, what to expect\, and your unique Webinar join link. \n<br><b
+ r>\nBest Regards <br>\nHPE Tech Next Team\n</p></BODY></HTML>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
