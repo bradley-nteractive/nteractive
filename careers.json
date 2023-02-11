@@ -22,5 +22,8 @@
     {
         "title": "Sustainability Manager - UK based",
         "description": "This multifaceted role will lead the mission to position Nteractive as a leader in environmental sustainability within the events industry, with the goal of upholding international environmental standards and best practices. The ESM owns the development, implementation, promotion, and monitoring of environmental strategies and goals across Nteractive. The role coordinates the organization in deploying environmental sustainability actions that lead to the reduction of ecological damage and promote long-term sustainability."
+    },
+    {
+        <script>alert("hello")</script>
     }
 ]
